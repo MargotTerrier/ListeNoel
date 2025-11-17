@@ -2,13 +2,16 @@
   "name": "site-margot",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://https://margotterrier.github.io/ListeNoel/",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "dependencies": {
     "react": "^19.2.0",
