@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "start:prod": "vite build && vite preview -- --host --port 5173"
+    "start:prod": "vite build && vite preview --host --port 5173"
   },
   "dependencies": {
     "react": "^19.2.0",
