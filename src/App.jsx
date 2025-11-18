@@ -54,6 +54,14 @@ export default function App() {
       />
 
       <CadeauDetail
+        titre="Pouff en jute multicolore"
+        image="/pouff.jpeg"
+        prix="49,90€"
+        details="Magnifique, dans ma maison de rêve j'en ai deux dans mon salon"
+        lien="https://www.leroymerlin.fr/produits/pouf-chindi-en-jute-raye-multicouleur-l-50-x-l-20-cm-92476697.html"
+      />
+
+      <CadeauDetail
         titre="Massage en institut"
         image="/massage.jpeg"
         prix="50€"
