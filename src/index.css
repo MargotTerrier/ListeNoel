@@ -140,3 +140,53 @@ a:hover {
   top: 12px;
   opacity: 0.8;
 }
+
+/* --------------------------------------------- */
+/* RESPONSIVE - MOBILE                           */
+/* --------------------------------------------- */
+@media (max-width: 768px) {
+  
+  /* Container centré */
+  .p-6 {
+    padding: 10px;
+  }
+
+  /* Cartes cadeaux passent en colonne */
+  .border {
+    flex-direction: column !important;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+  }
+
+  /* Image plus petite */
+  .border img {
+    width: 100%;
+    height: auto;
+    max-width: 260px;
+  }
+
+  /* Titre centré */
+  h2 {
+    text-align: center;
+  }
+
+  /* Détails et prix centrés */
+  .text-base,
+  .text-sm {
+    text-align: center;
+  }
+
+  /* Évite que la décoration ❄️ se superpose */
+  .border::after {
+    right: 6px;
+    top: 6px;
+    font-size: 18px;
+  }
+
+  /* Le grand titre ne déborde pas */
+  h1 {
+    font-size: 1.8rem;
+    padding: 0 10px;
+  }
+}
