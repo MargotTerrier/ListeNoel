@@ -2,7 +2,7 @@
   "name": "site-margot",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://https://margotterrier.github.io/ListeNoel/",
+  "homepage": "https://margotterrier.github.io/ListeNoel/",
   "type": "module",
   "scripts": {
     "dev": "vite",
