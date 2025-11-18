@@ -68,15 +68,7 @@ export default function App() {
         details="Magnifiqe pull hello kitty taille L !!!!"
         lien="https://www.undiz.com/fr/p/sweatshirt-sherpa-hello-kitty-655680573.html"
       />
-
-      <CadeauDetail
-        titre="Culotte Hello kitty"
-        image="/hk2.jpg"
-        prix="8,99€"
-        details="Pour completer l'ensemble ihih,  taille L"
-        lien="https://www.undiz.com/fr/p/culotte-coton-hello-kitty-655662673.html"
-      />
-
+      
       <CadeauDetail
         titre="Carte cadeau Aromazone"
         image="/carte2.jpg"
