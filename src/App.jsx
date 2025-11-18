@@ -31,9 +31,9 @@ export default function App() {
 
       <CadeauDetail
         titre="Cours de poterie"
-        image="/dlc.png"
+        image="/poterie.jpg"
         prix="170€"
-        details=""
+        details="Ne peux pas être payé en ligne"
         lien="https://www.lacourdespotiers.fr/ateliers/atelier-tournage/"
       />
       
