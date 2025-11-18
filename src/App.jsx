@@ -68,6 +68,14 @@ export default function App() {
         details="Magnifiqe pull hello kitty taille L !!!!"
         lien="https://www.undiz.com/fr/p/sweatshirt-sherpa-hello-kitty-655680573.html"
       />
+
+      <CadeauDetail
+        titre="Coque Switch Hello kitty"
+        image="/hk3.jpg"
+        prix="23,99€"
+        details="Magnifiqe coque pour ma switch !!!"
+        lien="https://www.amazon.fr/Kuitmor-Protection-Switch-Lite-Antirayures/dp/B0DSKTN5FF/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1"
+      />
       
       <CadeauDetail
         titre="Carte cadeau Aromazone"
