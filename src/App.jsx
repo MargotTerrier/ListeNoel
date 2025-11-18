@@ -30,6 +30,14 @@ export default function App() {
       <h1 className="text-3xl font-bold mb-6">Ma liste de cadeaux de Noël (et d'anniversaire ihih)</h1>
 
       <CadeauDetail
+        titre="Cours de poterie"
+        image="/dlc.png"
+        prix="170€"
+        details=""
+        lien="https://www.lacourdespotiers.fr/ateliers/atelier-tournage/"
+      />
+      
+      <CadeauDetail
         titre="DLC ACNH Happy Home Paradise"
         image="/dlc.png"
         prix="18,74€"
