@@ -56,6 +56,13 @@ const cadeaux = [
       lien: "https://www.leroymerlin.fr/produits/pouf-chindi-en-jute-raye-multicouleur-l-50-x-l-20-cm-92476697.html",
     },
     {
+      titre: "Lunettes de lecture horizontales",
+      image: "/lunettes.jpg",
+      prix: "15,98€",
+      details: "Parfait pour crocheter ou jouer a la switch sans se faire mal au cou!",
+      lien: "https://www.amazon.fr/Qianyou-Paresseuses-Lightweight-Horizontal-T%C3%A9l%C3%A9vision-Noir/dp/B0DGQ1ZV7S/ref=sr_1_4?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-4",
+    },
+    {
       titre: "Massage en institut",
       image: "/massage.jpeg",
       prix: "50€",
