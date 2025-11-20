@@ -85,7 +85,7 @@ const cadeaux = [
     },
     {
       titre: "Café aux champignons adaptogènes",
-      image: "/cafe.jpeg",
+      image: "/cafe.jpg",
       prix: "29€",
       details: "Un peu cher pour ce que c'est mais j'aimerais trop tester",
       lien: "https://www.amazon.fr/French-Mush-BOOST-Alternative-Champignons/dp/B0FCYNCQ4Z/ref=sr_1_1_sspa?sr=8-1-spons&aref=fiWZFoZgLa&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1#averageCustomerReviewsAnchor",
