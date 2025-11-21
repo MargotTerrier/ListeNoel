@@ -63,6 +63,20 @@ const cadeaux = [
       lien: "https://www.amazon.fr/Qianyou-Paresseuses-Lightweight-Horizontal-T%C3%A9l%C3%A9vision-Noir/dp/B0DGQ1ZV7S/ref=sr_1_4?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-4",
     },
     {
+      titre: "Sèche-cheveux",
+      image: "/cheveux.jpg",
+      prix: "33,29€",
+      details: "Il sèche trop bien les cheveux",
+      lien: "https://www.amazon.fr/BaByliss-S%C3%A8che-cheveux-avec-Diffuseur-Anti-Frisottis/dp/B098XSQC9H/ref=sr_1_15?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-15",
+    },
+    {
+      titre: "Jeu switch",
+      image: "/seat.png",
+      prix: "7,99€",
+      details: "EN promo actuellement, peut être acheté directement sur la switch ou en physique",
+      lien: "https://www.nintendo.com/us/store/products/is-this-seat-taken-switch/",
+    },
+    {
       titre: "Massage en institut",
       image: "/massage.jpeg",
       prix: "50€",
